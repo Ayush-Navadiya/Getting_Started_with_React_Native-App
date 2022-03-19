@@ -33,7 +33,7 @@ First React Native app using Expo CLI
 
 ---
 ## Output
-![Kitten Material](https://github.com/Ayush-Navadiya/React-Native-Hello_World-App/blob/master/ScreenShot/main_screen.jpg =400)
+![Kitten Material](https://github.com/Ayush-Navadiya/React-Native-Hello_World-App/blob/master/ScreenShot/main_screen.jpg)
 
 
 
