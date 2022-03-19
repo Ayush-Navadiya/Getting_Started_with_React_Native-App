@@ -19,7 +19,7 @@ First React Native app using Expo CLI
 1. Open Command Line
 2. Move to project directory
 4. Run command "npm install" to install node modules
-5. Run command "npm start" to start server
+5. Run command "npm start" to start expo cli
 6. Let it get started and select option to run on appropriate device
 7. Make sure that an emulator is running\ or else if you are using your mobile make sure that USB debugging is turned on
 8. You will see the output on the targeted device
@@ -67,11 +67,12 @@ Note: When You Run the 'expo init' command it will ask you to choose template go
 
 ---
 ## Running Program 
+
 1. Open Command Line
 2. Move to project directory
 4. Run command "npm install" to install node modules
-5. Run command "npm start" to start server
-6. Let it get started and select option to run on appropriate device
+5. Run command "npm start" to expo cli
+6. Let it get started then select option to run on appropriate device
 7. Make sure that an emulator is running\ or else if you are using your mobile make sure that USB debugging is turned on
 8. You will see the output on the targeted device
 9. To Print Hello World on screen change the app.js code with the code given bellow
