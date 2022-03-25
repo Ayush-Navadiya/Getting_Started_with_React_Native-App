@@ -86,7 +86,7 @@ Note: When You Run the 'expo init' command it will ask you to choose template go
 8. You will see the output on the targeted device
 9. To Print Hello World on screen change the app.js code with the code given bellow
 
-```
+```javascript
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
