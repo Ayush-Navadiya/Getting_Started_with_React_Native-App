@@ -60,13 +60,13 @@ First React Native app using Expo CLI
 
 Install Expo-cli to start with react native expo app and if already installed skip this installation:
 
-```bash
+```shell
 npm install --global expo-cli
 ```
 
 Initialize app with the following command:
 
-```bash
+```shell
 expo init your-project-name
 ```
 
