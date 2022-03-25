@@ -44,7 +44,7 @@ First React Native app using Expo CLI
 
 ---
 ## Output
-<img src="https://github.com/Ayush-Navadiya/React-Native-Hello_World-App/blob/master/ScreenShot/main_screen.jpg" width=400>
+<img src="https://github.com/Ayush-Navadiya/React-Native-Hello_World-App/blob/master/ScreenShot/main_screen.jpg" width=250>
 
 
 
