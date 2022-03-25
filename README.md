@@ -40,9 +40,11 @@ First React Native app using Expo CLI
 > Give a thanks with coffee [Here](https://www.buymeacoffee.com/ayushnavadiya).\
 > https://www.buymeacoffee.com/ayushnavadiya
 
+
+
 ---
 ## Output
-![Kitten Material](https://github.com/Ayush-Navadiya/React-Native-Hello_World-App/blob/master/ScreenShot/main_screen.jpg)
+<img src="https://github.com/Ayush-Navadiya/React-Native-Hello_World-App/blob/master/ScreenShot/main_screen.jpg" width=400>
 
 
 
